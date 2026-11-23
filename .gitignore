@@ -6,6 +6,10 @@ candidate_profile.md
 resume.md
 resume.txt
 shortlist.*
+# Greenhouse auto-applier: profile, ledger and screenshots live in ~/.job-autoapply,
+# never in this public repo. Belt-and-braces in case someone copies them here.
+auto_apply/profile.json
+.job-autoapply/
 
 # Retired sync service local files. GitHub Pages serves this
 # repo's root, so anything committed here is published — keep credentials and

@@ -1,0 +1,68 @@
+{
+  "first_name": "Ada",
+  "last_name": "Lovelace",
+  "preferred_name": "",
+  "email": "ada@example.com",
+  "phone": "415-555-0100",
+  "country": "United States",
+  "location": {
+    "search": "San Francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "postal_code": "94117",
+    "address": ""
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/your-handle",
+    "github": "https://github.com/your-handle",
+    "website": ""
+  },
+  "resume_path": "~/Documents/resume.pdf",
+  "cover_letter_path": "",
+  "generate_cover_letter_when_required": true,
+
+  "education": {
+    "school": "University of San Francisco",
+    "degree": ["Master's Degree", "Master of Science"],
+    "discipline": "Data Science",
+    "start_month": "August", "start_year": "2023",
+    "end_month": "May", "end_year": "2024"
+  },
+  "employment": {
+    "company": "Example Co",
+    "title": "Data Scientist",
+    "start_month": "June", "start_year": "2024",
+    "current": true
+  },
+
+  "work_authorization": { "authorized_us": true, "needs_sponsorship": false },
+  "over_18": true,
+  "former_employers": [],
+  "salary_expectation": "Open to discussing; flexible based on the full package",
+  "how_did_you_hear": ["LinkedIn", "Job Board", "Company Website", "Other"],
+  "accept_acknowledgements": true,
+
+  "eeo": {
+    "gender": "decline",
+    "hispanic": "decline",
+    "race": "decline",
+    "veteran": "decline",
+    "disability": "decline"
+  },
+
+  "answers": [
+    { "match": "non-?compete", "answer": "No" },
+    { "match": "security clearance", "answer": ["None", "No"] },
+    { "match": "relocat", "answer": "Yes" }
+  ],
+
+  "search": {
+    "days": 7,
+    "min_score": 80,
+    "include_titles": [],
+    "exclude_titles": ["\\bsenior\\b", "\\bstaff\\b", "\\bprincipal\\b", "\\bdirector\\b", "\\bmanager\\b"],
+    "exclude_companies": []
+  },
+  "limits": { "max_per_run": 3, "max_per_day": 10, "max_judge_per_run": 15 },
+  "context_files": ["candidate_profile.md", "resume.md"]
+}
