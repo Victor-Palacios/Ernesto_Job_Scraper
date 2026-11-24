@@ -1,25 +1,85 @@
 {
-  "scraped_at": "2026-11-23 19:19 UTC",
-  "total": 48,
-  "new_count": 30,
+  "scraped_at": "2026-11-24 23:29 UTC",
+  "total": 278,
+  "new_count": 278,
   "jobs": [
     {
-      "company": "MeeBoss",
-      "title": "Member of Technical Staff, AI Data and Evals Engineer at Tech Careers",
+      "company": "Digital Waffle",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494378330/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$235,000.00/yr - $400,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reducto",
+      "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493682695/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4402997955/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Intelix.AI",
-      "title": "Deployment Engineer, AI Platform",
+      "company": "Fonzi AI",
+      "title": "ML Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4494029654/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494381391/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Quizlet",
+      "title": "Machine Learning Engineer, Content Platform & Experience",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442400541/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$167,000.00/yr - $219,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SAP",
+      "title": "Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493045948/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$106,900.00/yr - $229,400.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Shields Group Search",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4491876560/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$220,000.00/yr - $300,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skydio",
+      "title": "Autonomy Engineer - Deep Learning",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344003396/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -27,99 +87,279 @@
     },
     {
       "company": "Capital One",
-      "title": "Applied Researcher 4 (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469531994/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Enigma",
-      "title": "Forward Deployed Engineer | Python | API's | AWS | Docker | Kubernetes | Hybrid | San Francisco, CA",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494042352/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, ML Infrastructure, ML Platform Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493687862/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Machine Learning Engineer",
+      "title": "Machine Learning Engineer 4",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4494046090/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494157639/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "CompSciPrep",
-      "title": "Forward Deployed AI Engineer",
+      "company": "Fonzi AI",
+      "title": "ML Engineer",
       "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493681728/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494379506/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
-      "salary": "$200,000.00/yr - $225,000.00/yr",
+      "salary": "$180,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Production Model Post-Training",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485775996/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Figma",
+      "title": "Software Engineer - AI Product",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4239979655/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Auxo Talent",
+      "title": "Robotics Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4481362173/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Research Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494380452/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Applied Scientist II, Performance Algorithms",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494748044/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rose International",
+      "title": "GenAI Solutions Engineer - Python, LLMs & Market Risk",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493020607/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cognizant",
+      "title": "AI Forward Deployed Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4474627553/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "title": "Palantir Forward Deployed Engineer - GPS",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4420689730/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Scientist, Global Data & Analytics (GDA) Team",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494119894/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mount Sinai Health System",
+      "title": "Data Scientist II- Pulmonary",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4489290779/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Listen Labs",
+      "title": "Member of Technical Staff, Product Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4405471694/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Data Scientist (Technical Leadership)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4430697095/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$210,000.00/yr - $281,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, GTM",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485792437/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494363957/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $400,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485779685/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
       "company": "TikTok",
-      "title": "Applied Scientist, Recommendation, E-Commerce Alliance",
+      "title": "Data Scientist - TikTok Ads",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494033749/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4296065375/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Enigma",
-      "title": "Research Engineer | Post-Training | LLM | Large Language Models | Python | PyTorch | San Francisco, CA",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4494048200/",
-      "date_posted": "2026-11-23",
+      "company": "University of California, San Francisco",
+      "title": "Computational and Data Science Research Specialist 5",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491760828/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Machine Learning Engineer, Generative ML, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493687908/",
-      "date_posted": "2026-11-23",
+      "company": "Amazon Science",
+      "title": "Applied Scientist III - AMZ10495951",
+      "location": "East Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493057245/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Pacer Group",
-      "title": "Operations Research Data Scientist",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485859604/",
-      "date_posted": "2026-11-23",
+      "company": "Capital Group",
+      "title": "AI Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486020336/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rose International",
+      "title": "Computational Scientist - Deep Learning & Computational Biology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484360908/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SAP",
+      "title": "Data and Applied Scientist",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493043040/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$106,900.00/yr - $229,400.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Huxley",
+      "title": "Computer Vision Research Scientist",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494189864/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $170,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Genentech",
+      "title": "Postdoctoral Fellow Computational Biology and Machine Learning, Jhunjhunwala Lab",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494167343/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -129,447 +369,109 @@
       "company": "Enigma",
       "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494017852/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494394818/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Applied Materials",
-      "title": "Software Engineer",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist II, Kiro Science",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492651042/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4486858727/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Model Behavior)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467892767/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jack",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494046023/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$180,000.00/yr - $280,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Specs Lenses C++, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493695404/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Audible",
-      "title": "Software Development Engineer, Playback Insights & Optimization",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4493692557/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mitchell Martin Inc.",
-      "title": "Forward Deployed Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4491167049/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$73.00/hr - $83.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "JustBacked",
-      "title": "Solutions Architect",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492651298/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MoonPay",
-      "title": "Software Engineer, Agents",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493908080/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Site Reliability Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494028808/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Software Development Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493695449/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apptad",
-      "title": "Full Stack AWS Solutions Architect",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494052030/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Site Reliability Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4494046093/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "COGENT Infotech",
-      "title": "Cloud Infrastructure Engineer",
-      "location": "White Plains, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492454356/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Backend, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493695603/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Oracle",
-      "title": "Platform Software Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492630909/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Roblox",
-      "title": "Software Engineer, Data Tooling",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494044144/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rundoo",
-      "title": "Software Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424053124/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nex",
-      "title": "Software Engineer (Party Cell)",
+      "company": "Hewlett Packard Enterprise",
+      "title": "AI and ML Solution Architect",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494045338/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $130,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Onehouse",
-      "title": "Software Engineer (US)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494024939/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494189157/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Kaleidoscope Innovation",
-      "title": "Software Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486413742/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $140,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cosign",
-      "title": "Mid-Level Full Stack Engineer (Ruby on Rails)",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493685864/",
-      "date_posted": "2026-11-23",
+      "company": "Convergent Research",
+      "title": "E11 Bio - Associate Computational Scientist",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488895431/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Marotta Controls",
-      "title": "Full-Stack Developer",
-      "location": "Parsippany, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4490383923/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CFS",
-      "title": "Software Engineer (on-site)",
-      "location": "Tarrytown, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492639357/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $125,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Backend, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493699384/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The JAM l People in Robotics",
-      "title": "Software Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493693569/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $150,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Blue Origin",
-      "title": "SOFTWARE ENGINEER \u2013 TeraWave \u2013 RF and Optical Systems",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492645402/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Solution Engineer, Ads",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493904628/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Full Stack, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493695605/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Full Stack, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493900514/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Specs C++, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493905310/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Goliath Partners",
-      "title": "Software Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493697774/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$550,000.00/yr - $800,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Android, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493687699/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Android, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493906129/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, iOS, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493696458/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Augmented Reality, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493687861/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Clinisoltech",
-      "title": "DevOps Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493698775/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$75,000.00/yr - $90,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Enigma",
-      "title": "Forward Deployed Engineer | Python | API's | AWS | Docker | Kubernetes | Hybrid | San Francisco, CA",
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Pre-Training Data",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494042352/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4256124536/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, ML Infrastructure, ML Platform Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493687862/",
-      "date_posted": "2026-11-23",
+      "company": "Fonzi AI",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494368958/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$175,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zoox",
+      "title": "Machine Learning Engineer - 3D Sensor Simulation",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478749097/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "TikTok",
-      "title": "Applied Scientist, Recommendation, E-Commerce Alliance",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494033749/",
-      "date_posted": "2026-11-23",
+      "company": "OpenAI",
+      "title": "Research Engineer/Research Scientist-Post Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432916001/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$380,000.00/yr - $500,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobverse.io",
+      "title": "Research Engineer/Research Scientist-Post Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494133751/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "QualityAI",
+      "title": "AI Research Engineer",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484977742/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -579,75 +481,52 @@
       "company": "Enigma",
       "title": "Research Engineer | Post-Training | LLM | Large Language Models | Python | PyTorch | San Francisco, CA",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4494048200/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494734084/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Machine Learning Engineer, Generative ML, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493687908/",
-      "date_posted": "2026-11-23",
+      "company": "X, The Moonshot Factory",
+      "title": "Machine Learning Engineer, Bellwether, X",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485780933/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Specs Lenses C++, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493695404/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Audible",
-      "title": "Software Development Engineer, Playback Insights & Optimization",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4493692557/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mitchell Martin Inc.",
-      "title": "Forward Deployed Engineer",
+      "company": "Anthropic",
+      "title": "Data Scientist, GTM",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4491167049/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4485793418/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
-      "salary": "$73.00/hr - $83.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "JustBacked",
-      "title": "Solutions Architect",
+      "company": "Anthropic",
+      "title": "Data Scientist, Product",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492651298/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4485785625/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "MoonPay",
-      "title": "Software Engineer, Agents",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493908080/",
-      "date_posted": "2026-11-23",
+      "company": "Point One - Hedge Fund Talent",
+      "title": "Machine Learning Research Scientist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4473902927/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -655,225 +534,5639 @@
     },
     {
       "company": "Amazon",
-      "title": "Software Development Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493695449/",
-      "date_posted": "2026-11-23",
+      "title": "Member of Technical Staff, Frontier AI & Robotics (FAR)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478510624/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Apptad",
-      "title": "Full Stack AWS Solutions Architect",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494052030/",
-      "date_posted": "2026-11-23",
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences (Computational Chemistry)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485779699/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "COGENT Infotech",
-      "title": "Cloud Infrastructure Engineer",
-      "location": "White Plains, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492454356/",
-      "date_posted": "2026-11-23",
+      "company": "David AI",
+      "title": "Forward Deployed Engineer, Evals",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493052437/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$165,000.00/yr - $225,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "AI Data Foundation Research Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493262642/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Backend, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493695603/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nex",
-      "title": "Software Engineer (Party Cell)",
+      "company": "TetraMem - Accelerate The World",
+      "title": "Mid-Level Machine Learning Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494045338/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $130,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kaleidoscope Innovation",
-      "title": "Software Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486413742/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $140,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cosign",
-      "title": "Mid-Level Full Stack Engineer (Ruby on Rails)",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493685864/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494740754/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Backend, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493699384/",
-      "date_posted": "2026-11-23",
+      "company": "Eli Lilly and Company",
+      "title": "Engineer - MLOps & Scientific Platforms - Data Foundry",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494170499/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "The JAM l People in Robotics",
-      "title": "Software Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493693569/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$130,000.00/yr - $150,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Blue Origin",
-      "title": "SOFTWARE ENGINEER \u2013 TeraWave \u2013 RF and Optical Systems",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492645402/",
-      "date_posted": "2026-11-23",
+      "company": "Skydio",
+      "title": "Autonomy Engineer - Deep Learning Infrastructure",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344031787/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Solution Engineer, Ads",
+      "company": "Reducto",
+      "title": "Machine Learning Infra Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413774666/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485786572/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "People In AI",
+      "title": "AI Infrastructure Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494418079/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $250,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494705235/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $400,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lorven Technologies Inc.",
+      "title": "Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494386265/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Arc Institute",
+      "title": "Software Engineer, ML Infrastructure",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477927614/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skydio",
+      "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4343844305/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Enigma",
+      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493904628/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494738006/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Full Stack, Level 5",
+      "company": "Google",
+      "title": "Forward Deployed Engineer III, Generative AI, Google Cloud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477560966/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494705280/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $350,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Baanyan Software Services, Inc.",
+      "title": "Forward Deployed Engineer - CA",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493695605/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494736239/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Full Stack, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493900514/",
-      "date_posted": "2026-11-23",
+      "company": "Ford Motor Company",
+      "title": "Full Stack Software Engineer - AI Applications",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442455135/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Specs C++, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493905310/",
-      "date_posted": "2026-11-23",
+      "company": "Glean",
+      "title": "Software Engineer, Agentic Runtime",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477961669/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Goliath Partners",
-      "title": "Software Engineer",
+      "company": "Meta",
+      "title": "Software Engineer, AI Specialist - Monetization (Technical Leadership)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449298123/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$219,000.00/yr - $301,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Figma",
+      "title": "Software Engineer - AI Platforms",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4320255693/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "title": "EDA Cloud & Developer Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486028213/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer - AI Agent Infra",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491842549/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, MTIA-SW Foundation",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493032405/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$121,992.00/yr - $181,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Flexon Technologies Talent360.ai",
+      "title": "AI Site Reliability Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494401671/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$65.00/hr - $70.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485788528/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DBI Staffing",
+      "title": "AI Platform Engineer",
       "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493697774/",
-      "date_posted": "2026-11-23",
-      "ats": "LinkedIn",
-      "salary": "$550,000.00/yr - $800,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Android, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493687699/",
-      "date_posted": "2026-11-23",
+      "url": "https://www.linkedin.com/jobs/view/4494146823/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Android, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493906129/",
-      "date_posted": "2026-11-23",
+      "company": "Cohere",
+      "title": "Software Engineer, Data Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414761530/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, iOS, Level 5",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493696458/",
-      "date_posted": "2026-11-23",
+      "company": "Capital One",
+      "title": "Cloud Engineer 4",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494168195/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, Augmented Reality, Level 4",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493687861/",
-      "date_posted": "2026-11-23",
+      "company": "Listen Labs",
+      "title": "Member of Technical Staff, Platform Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4405464740/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Clinisoltech",
+      "company": "Versana",
       "title": "DevOps Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493698775/",
-      "date_posted": "2026-11-23",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494733676/",
+      "date_posted": "2026-11-24",
       "ats": "LinkedIn",
-      "salary": "$75,000.00/yr - $90,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Infrastructure Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494367918/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Figma",
+      "title": "Software Engineer - Full Stack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4320306217/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vagaro",
+      "title": "Software Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493031741/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink Enterprise)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486812325/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, Search Ads Auction Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494333270/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer, AWS EC2 Nitro Team",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486860667/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reddit, Inc.",
+      "title": "Software Engineer, Infrastructure Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486815478/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492173302/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$175,000.00/yr - $225,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tessera Labs",
+      "title": "Software Engineer, Backend",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457177772/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $250,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HPE Aruba Networking",
+      "title": "Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493254782/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Verkada",
+      "title": "Backend Software Engineer - University Graduate 2027",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486485457/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Development Engineer III, Efficiency & Performance, Alloy, Region Flex Efficiency",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486861624/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Haystack",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494385188/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mintive",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494427565/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Full-stack Engineer 3",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494155731/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Developer (OpenSHMEM/MPI)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494192303/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Full-stack Engineer 3",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494157607/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mintive",
+      "title": "Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494429516/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493029248/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer III - Fullstack, Java, AWS",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494440366/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$137,750.00/yr - $185,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rippling",
+      "title": "Software Engineer II, Backend Full Stack - Emerging Products",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494444337/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Postman",
+      "title": "Software Engineer - Fern",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486491615/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trexquant Investment LP",
+      "title": "C++ Software Engineer (USA)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485788281/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reddit, Inc.",
+      "title": "Software Engineer, Infrastructure Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486827006/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Wealthfront",
+      "title": "Backend Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4296094481/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cape",
+      "title": "Full Stack Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4371575959/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Imagen Technologies",
+      "title": "Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450290161/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trexquant Investment LP",
+      "title": "C++ Software Engineer (USA)",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4485793207/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Full-stack Engineer 3",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494173038/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tower Research Capital",
+      "title": "Software Engineer, Trading Systems (C++)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4424908005/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Product",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4438484963/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Clearwater Analytics",
+      "title": "Software Development Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414736711/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Backend Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494368880/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $250,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Software Engineer, Backend",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494372837/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $250,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vercel",
+      "title": "Software Engineer, AI Gateway",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4489614680/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vercel",
+      "title": "Software Engineer, Scheduled Tasks",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471681769/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trail",
+      "title": "Member of Technical Staff",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493697945/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Intelliswift - An LTTS Company",
+      "title": "AI-LLM Backend Engineer -Java",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4471550721/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fluidstack",
+      "title": "Software Engineer, Facilities",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441384264/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Profound",
+      "title": "Member of Technical Staff, TLM, Context Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493045759/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mission.dev",
+      "title": "Backend-Leaning Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4482555106/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BlackRock",
+      "title": "Associate, Full Stack Engineer - SMA Solutions",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460899357/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Speak to Kit",
+      "title": "Customer-Facing Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494395103/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Kastle",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485775057/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zip",
+      "title": "Software Engineer, Backend (All Levels)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406142194/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cognizant",
+      "title": "Java Backend Developer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494747293/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Software Engineer, Backend",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494378611/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Backend Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494374622/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Albert Bow",
+      "title": "Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4493043559/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Initi8 Recruitment",
+      "title": "Full Stack Engineer (Backend Leaning) - Start Up - NYC",
+      "location": "Manhattan, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493002949/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Matlen Silver",
+      "title": "Java Software Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4491566440/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BIP US",
+      "title": "Reference Data Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4466923856/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Manifest OS",
+      "title": "Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4430235334/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "title": "Software Engineer, Infranomics",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485755287/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4490937168/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Serval",
+      "title": "Software Engineer, Frontend",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404256612/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "thebridge.ai",
+      "title": "Frontend Developer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494748373/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Frontend Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494373731/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Salesforce",
+      "title": "Product Designer/Front End SMTS Software Engineer - MeshMesh",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486811085/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Character.ai",
+      "title": "Software Engineer, Core Product",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4310532920/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Product Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494379518/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reducto",
+      "title": "Product Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4339004693/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Front-End Engineer II - Data Marketplace Experiences",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494735476/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Frontend Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494383258/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Product Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494374715/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "evoke",
+      "title": "Product Engineer | Series A AI Startup | NYC",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494155245/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Software Engineer",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4492847168/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Loop",
+      "title": "AI Software Engineer, Full-Stack (NY)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4434029672/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Nuvo",
+      "title": "New Grad Product Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461288859/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494386864/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gotion Inc.",
+      "title": "Software Development Engineer \u2013 Full Stack",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4440864529/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494386167/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MeeBoss",
+      "title": "Full-Stack Software Engineer at RainesDev",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494187863/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Glean",
+      "title": "Software Engineer, Fullstack",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4195259082/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Full Stack Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494381367/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Full-stack Engineer 4 (Python, Vue, AWS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494164209/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BeaconFire Inc.",
+      "title": "Java Full-Stack Developer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4493011865/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Software Engineer, Full Stack",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494385300/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Visionary Innovative Technology Solutions LLC",
+      "title": "Full Time Only: Java Full stack Developer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4493027877/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capgemini",
+      "title": "Full stack Developer (React, Java)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4492667000/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "UMATR",
+      "title": "Forward Deployed Engineer (AI)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4460476666/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Manifest OS",
+      "title": "Product Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493053469/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stuut",
+      "title": "Product Engineer - Onboarding Automation",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494435220/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Mobile Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494367947/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Forward Deployed Engineer - New Grad (2027)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461367281/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Wireless Embedded Software Developer, RTI, Amazon Leo",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494125796/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477923139/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "IT Systems Engineer, Mobile Client Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486000042/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Aquent",
+      "title": "Frontend Developer, Design Systems [AQ-28224]",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492697867/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493042108/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Autopoiesis Sciences",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494748119/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494705181/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skydio",
+      "title": "Autonomy Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4327890047/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "oneNav, Inc.",
+      "title": "Software Engineer \u2013 GNSS Systems (Tools, Test & Data)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483741138/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Computer Vision Engineer, Reality Labs",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484652963/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hadrian",
+      "title": "All Levels: Product Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4484609638/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TechShack",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494419290/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skild AI",
+      "title": "Robotics Engineer, Deployment & Testing - San Mateo",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470224851/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485783647/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Mobile Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494386196/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trove",
+      "title": "iOS Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486473630/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Salesforce",
+      "title": "Software Engineer II - Slack Developer Workspaces",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494409814/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Cloud Engineer 4",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494153722/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Cloud Engineer 4",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494157604/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reflection",
+      "title": "Member of Technical Staff - Platform Foundations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383918256/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Albert Bow",
+      "title": "Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4493046402/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mizuho",
+      "title": "Infrastructure Platform Engineer (Containerization and Automation focus)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4438807818/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "title": "Software Engineer, Resilience Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485748855/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Natsoft",
+      "title": "Blockchain Infrastructure Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494143967/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Delta System & Software, Inc.",
+      "title": "Infrastructure Engineer (Blockchain Expertise)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494394100/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Smart IT Frame LLC",
+      "title": "Cloud Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494385851/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Delta System & Software, Inc.",
+      "title": "Blockchain Infrastructure Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494392121/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SwankTek Inc.",
+      "title": "Cloud Engineer - Google Cloud Platform/AWS/Azure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493001497/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SwankTek Inc.",
+      "title": "Cloud Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493015013/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Luma Financial Technologies",
+      "title": "Site Reliability Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471938194/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Whatnot",
+      "title": "Software Engineer, Data Developer Platform",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4441139292/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "DevOps / AgentOps Engineer, GTM Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485793420/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ivo",
+      "title": "Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480123114/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
+      "title": "Site Reliability Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486811723/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "United Software Group Inc",
+      "title": "Site Reliability Engineer with Cuda & Groovy",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493031345/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hyve Solutions",
+      "title": "Site Reliability Engineer- EDI",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486493114/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reducto",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424130274/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cylake",
+      "title": "Software Infrastructure Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486809969/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Nscale",
+      "title": "Infrastructure Engineer - Operations and Reliability",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494139845/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Global IT Con. LLC",
+      "title": "DevOps / Platform Engineer (AI Automation & GitOps)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494718838/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mobile Apps US",
+      "title": "Network Devops Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494713103/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "InfiCare Staffing",
+      "title": "Network DevOps Engineer With Terraform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494737193/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, Infrastructure, Google Play",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494335292/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Infrastructure Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494372771/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Everpure",
+      "title": "Software Engineer - Forensics",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485787136/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Solution Architect",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486005082/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DataAnnotation",
+      "title": "Computational Biologist - AI Trainer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494419765/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bayside Solutions",
+      "title": "Biostatistician, Late Stage",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494727591/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Solution Architect",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485793829/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sphere",
+      "title": "Software Engineer - Backend Development & Financial Systems Integrations",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494733278/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Yoh, A Day & Zimmermann Company",
+      "title": "Azure/Databricks platform engineer (Terraforms) - Onsite in Jersey City, NJ -Hybrid - Open for C2C",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4494147871/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485782681/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, Growth",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485798288/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, RL Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485787584/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Code RL (Reinforcement Learning)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485791478/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AMD",
+      "title": "ML Systems Research Engineer, RL / Inference / Agent Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476058099/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "title": "GPU Research Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494391455/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Member of Technical Staff",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494390150/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MeeBoss",
+      "title": "Member of Technical Staff, AI Data and Evals Engineer at Tech Careers",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494407244/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, RL Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485798260/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Member of Technical Staff",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494377541/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ramp",
+      "title": "Research Engineer, Benchmarks & Evaluation",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486811384/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crosby",
+      "title": "Member of Technical Staff, AI Developer Experience",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4426454169/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "David AI",
+      "title": "Forward Deployed Engineer, Evals",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493050646/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Marotta Controls",
+      "title": "Embedded Software Engineer",
+      "location": "Parsippany, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4494382571/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trail",
+      "title": "Forward Deployed Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494170736/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494367880/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pivotal Partners",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4492025147/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TTE Staffing",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494745440/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reducto",
+      "title": "Solutions Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4339044744/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Solutions Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494395451/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Franklin Templeton",
+      "title": "Forward Deployed Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494415870/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Franklin Templeton",
+      "title": "Forward Deployed Engineer",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494420905/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Inventure",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494375652/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Intuit",
+      "title": "Forward Deployed Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486812743/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pigment",
+      "title": "AI Deployment Strategist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484259342/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TechDoQuest",
+      "title": "Deployment Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491636234/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Forward Deployed Engineer, Geo Auto",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494380244/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dexmate",
+      "title": "Solutions Engineer, Physical AI",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461038486/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stuut",
+      "title": "Product Engineer - Onboarding Automation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494443174/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pivotal Partners",
+      "title": "Solutions Architect",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494102978/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Eve",
+      "title": "Solutions Architect, AI Intake",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493657870/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4490675206/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Box",
+      "title": "Mid-Market Solutions Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494185302/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Nuvo",
+      "title": "New Grad Forward Deployed Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461285885/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Forward Deployed Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494384218/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Solutions Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494394324/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Franklin Templeton",
+      "title": "Forward Deployed Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494429365/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Solutions Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4490938134/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TTE Staffing",
+      "title": "Solutions Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494736721/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gotion Inc.",
+      "title": "Solutions Engineer, ESS - Mexico",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4298454912/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Customer Engineer III, AI/ML, Mid-Market Enterprise, Google Cloud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494343010/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Partner Solutions Engineer, gTech Ads Sellside",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494331497/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Solutions Architect, Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486039010/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lightning AI",
+      "title": "Pre-Sales Solution Engineer, Neocloud Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494391773/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NinjaOne",
+      "title": "Associate Enterprise Solutions Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4494412291/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NinjaOne",
+      "title": "Associate Enterprise Solutions Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494410296/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "justt",
+      "title": "Solution Engineer - NYC",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494195951/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hyro",
+      "title": "Forward Deployed Strategist (NYC)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4474052737/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Adaptive",
+      "title": "Solution Engineer (Aeron and Capital Markets)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4345881379/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ronco",
+      "title": "Enterprise Solutions Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4447718034/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Neos Talent",
+      "title": "Forward Deployed Engineer (FDE)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494107964/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Galent",
+      "title": "AI Solution Architect",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4493011907/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Field Solutions Architect IV, AI Infrastructure, Google Cloud",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485748445/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MaintainX",
+      "title": "Solutions Architect, Integrations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486013884/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ramp",
+      "title": "Procurement Solutions Architect",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470237453/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bramasol Inc.",
+      "title": "SAP S/4HANA Solution Architect \u2013 Finance & Manufacturing Costing",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494137700/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Headway Tek Inc",
+      "title": "Data Analyst/EDW Solution Architect",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494724551/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer, AWS EC2 Nitro Team",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486873153/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer (SDS Hardware-in-the-Loop)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461921799/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Software Engineer, Sandboxing",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486000006/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493042357/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, CE AI Foundations",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494390702/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA",
+      "title": "Software Engineer (C++, OOD/OOP, Linux)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411540228/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Digital Waffle",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494378330/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$235,000.00/yr - $400,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reducto",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402997955/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "ML Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494381391/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Quizlet",
+      "title": "Machine Learning Engineer, Content Platform & Experience",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442400541/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$167,000.00/yr - $219,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SAP",
+      "title": "Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493045948/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$106,900.00/yr - $229,400.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Shields Group Search",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4491876560/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$220,000.00/yr - $300,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skydio",
+      "title": "Autonomy Engineer - Deep Learning",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344003396/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Machine Learning Engineer 4",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494157639/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "ML Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494379506/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Production Model Post-Training",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485775996/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Figma",
+      "title": "Software Engineer - AI Product",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4239979655/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Auxo Talent",
+      "title": "Robotics Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4481362173/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Research Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494380452/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Applied Scientist II, Performance Algorithms",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494748044/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rose International",
+      "title": "GenAI Solutions Engineer - Python, LLMs & Market Risk",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493020607/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cognizant",
+      "title": "AI Forward Deployed Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4474627553/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "title": "Palantir Forward Deployed Engineer - GPS",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4420689730/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Scientist, Global Data & Analytics (GDA) Team",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494119894/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mount Sinai Health System",
+      "title": "Data Scientist II- Pulmonary",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4489290779/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Listen Labs",
+      "title": "Member of Technical Staff, Product Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4405471694/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Data Scientist (Technical Leadership)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4430697095/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$210,000.00/yr - $281,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, GTM",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485792437/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494363957/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $400,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485779685/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Data Scientist - TikTok Ads",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4296065375/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "University of California, San Francisco",
+      "title": "Computational and Data Science Research Specialist 5",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491760828/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist III - AMZ10495951",
+      "location": "East Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493057245/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital Group",
+      "title": "AI Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486020336/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rose International",
+      "title": "Computational Scientist - Deep Learning & Computational Biology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484360908/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SAP",
+      "title": "Data and Applied Scientist",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493043040/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$106,900.00/yr - $229,400.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Huxley",
+      "title": "Computer Vision Research Scientist",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494189864/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$150,000.00/yr - $170,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Genentech",
+      "title": "Postdoctoral Fellow Computational Biology and Machine Learning, Jhunjhunwala Lab",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494167343/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Enigma",
+      "title": "AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494394818/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist II, Kiro Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486858727/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "AI and ML Solution Architect",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494189157/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Convergent Research",
+      "title": "E11 Bio - Associate Computational Scientist",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488895431/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Pre-Training Data",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4256124536/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494368958/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$175,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zoox",
+      "title": "Machine Learning Engineer - 3D Sensor Simulation",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478749097/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "title": "Research Engineer/Research Scientist-Post Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4432916001/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$380,000.00/yr - $500,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jobverse.io",
+      "title": "Research Engineer/Research Scientist-Post Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494133751/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "QualityAI",
+      "title": "AI Research Engineer",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484977742/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Enigma",
+      "title": "Research Engineer | Post-Training | LLM | Large Language Models | Python | PyTorch | San Francisco, CA",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494734084/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "X, The Moonshot Factory",
+      "title": "Machine Learning Engineer, Bellwether, X",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485780933/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, GTM",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485793418/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, Product",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485785625/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Point One - Hedge Fund Talent",
+      "title": "Machine Learning Research Scientist",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4473902927/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Member of Technical Staff, Frontier AI & Robotics (FAR)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478510624/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Scientist, Life Sciences (Computational Chemistry)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485779699/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "David AI",
+      "title": "Forward Deployed Engineer, Evals",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493052437/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$165,000.00/yr - $225,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "AI Data Foundation Research Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493262642/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TetraMem - Accelerate The World",
+      "title": "Mid-Level Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494740754/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Eli Lilly and Company",
+      "title": "Engineer - MLOps & Scientific Platforms - Data Foundry",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494170499/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skydio",
+      "title": "Autonomy Engineer - Deep Learning Infrastructure",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344031787/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reducto",
+      "title": "Machine Learning Infra Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413774666/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485786572/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "People In AI",
+      "title": "AI Infrastructure Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494418079/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $250,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494705235/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $400,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lorven Technologies Inc.",
+      "title": "Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494386265/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Arc Institute",
+      "title": "Software Engineer, ML Infrastructure",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477927614/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skydio",
+      "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4343844305/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Enigma",
+      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494738006/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Forward Deployed Engineer III, Generative AI, Google Cloud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477560966/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494705280/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$200,000.00/yr - $350,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Baanyan Software Services, Inc.",
+      "title": "Forward Deployed Engineer - CA",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494736239/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ford Motor Company",
+      "title": "Full Stack Software Engineer - AI Applications",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442455135/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Glean",
+      "title": "Software Engineer, Agentic Runtime",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477961669/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, AI Specialist - Monetization (Technical Leadership)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449298123/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$219,000.00/yr - $301,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Figma",
+      "title": "Software Engineer - AI Platforms",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4320255693/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "title": "EDA Cloud & Developer Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486028213/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer - AI Agent Infra",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491842549/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, MTIA-SW Foundation",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493032405/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$121,992.00/yr - $181,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Flexon Technologies Talent360.ai",
+      "title": "AI Site Reliability Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494401671/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$65.00/hr - $70.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485788528/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DBI Staffing",
+      "title": "AI Platform Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494146823/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cohere",
+      "title": "Software Engineer, Data Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414761530/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Cloud Engineer 4",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494168195/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Listen Labs",
+      "title": "Member of Technical Staff, Platform Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4405464740/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Versana",
+      "title": "DevOps Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494733676/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Infrastructure Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494367918/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$185,000.00/yr - $260,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Figma",
+      "title": "Software Engineer - Full Stack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4320306217/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vagaro",
+      "title": "Software Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493031741/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink Enterprise)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486812325/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, Search Ads Auction Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494333270/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer, AWS EC2 Nitro Team",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486860667/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reddit, Inc.",
+      "title": "Software Engineer, Infrastructure Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486815478/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492173302/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$175,000.00/yr - $225,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tessera Labs",
+      "title": "Software Engineer, Backend",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457177772/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $250,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HPE Aruba Networking",
+      "title": "Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493254782/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Verkada",
+      "title": "Backend Software Engineer - University Graduate 2027",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486485457/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Development Engineer III, Efficiency & Performance, Alloy, Region Flex Efficiency",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486861624/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Haystack",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494385188/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mintive",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494427565/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Full-stack Engineer 3",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494155731/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Developer (OpenSHMEM/MPI)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494192303/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Full-stack Engineer 3",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494157607/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mintive",
+      "title": "Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494429516/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lockheed Martin",
+      "title": "Software Engineer - E2",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493029248/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer III - Fullstack, Java, AWS",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494440366/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$137,750.00/yr - $185,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Rippling",
+      "title": "Software Engineer II, Backend Full Stack - Emerging Products",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494444337/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Postman",
+      "title": "Software Engineer - Fern",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486491615/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trexquant Investment LP",
+      "title": "C++ Software Engineer (USA)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485788281/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reddit, Inc.",
+      "title": "Software Engineer, Infrastructure Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486827006/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Wealthfront",
+      "title": "Backend Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4296094481/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cape",
+      "title": "Full Stack Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4371575959/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Imagen Technologies",
+      "title": "Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4450290161/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trexquant Investment LP",
+      "title": "C++ Software Engineer (USA)",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4485793207/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Full-stack Engineer 3",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494173038/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tower Research Capital",
+      "title": "Software Engineer, Trading Systems (C++)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4424908005/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Product",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4438484963/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Clearwater Analytics",
+      "title": "Software Development Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4414736711/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Backend Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494368880/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $250,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Software Engineer, Backend",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494372837/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "salary": "$180,000.00/yr - $250,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vercel",
+      "title": "Software Engineer, AI Gateway",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4489614680/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vercel",
+      "title": "Software Engineer, Scheduled Tasks",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471681769/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trail",
+      "title": "Member of Technical Staff",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493697945/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Intelliswift - An LTTS Company",
+      "title": "AI-LLM Backend Engineer -Java",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4471550721/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fluidstack",
+      "title": "Software Engineer, Facilities",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441384264/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Profound",
+      "title": "Member of Technical Staff, TLM, Context Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493045759/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mission.dev",
+      "title": "Backend-Leaning Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4482555106/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BlackRock",
+      "title": "Associate, Full Stack Engineer - SMA Solutions",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460899357/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Speak to Kit",
+      "title": "Customer-Facing Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494395103/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Kastle",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485775057/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Zip",
+      "title": "Software Engineer, Backend (All Levels)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406142194/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cognizant",
+      "title": "Java Backend Developer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494747293/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Software Engineer, Backend",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494378611/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Backend Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494374622/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Albert Bow",
+      "title": "Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4493043559/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Initi8 Recruitment",
+      "title": "Full Stack Engineer (Backend Leaning) - Start Up - NYC",
+      "location": "Manhattan, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493002949/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Matlen Silver",
+      "title": "Java Software Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4491566440/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BIP US",
+      "title": "Reference Data Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4466923856/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Manifest OS",
+      "title": "Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4430235334/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "title": "Software Engineer, Infranomics",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485755287/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4490937168/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Serval",
+      "title": "Software Engineer, Frontend",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404256612/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "thebridge.ai",
+      "title": "Frontend Developer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494748373/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Frontend Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494373731/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Salesforce",
+      "title": "Product Designer/Front End SMTS Software Engineer - MeshMesh",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486811085/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Character.ai",
+      "title": "Software Engineer, Core Product",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4310532920/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Product Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494379518/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reducto",
+      "title": "Product Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4339004693/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Front-End Engineer II - Data Marketplace Experiences",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494735476/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Frontend Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494383258/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Product Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494374715/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "evoke",
+      "title": "Product Engineer | Series A AI Startup | NYC",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494155245/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Software Engineer",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4492847168/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Loop",
+      "title": "AI Software Engineer, Full-Stack (NY)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4434029672/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Nuvo",
+      "title": "New Grad Product Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461288859/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494386864/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gotion Inc.",
+      "title": "Software Development Engineer \u2013 Full Stack",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4440864529/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494386167/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MeeBoss",
+      "title": "Full-Stack Software Engineer at RainesDev",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494187863/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Glean",
+      "title": "Software Engineer, Fullstack",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4195259082/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Full Stack Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494381367/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Full-stack Engineer 4 (Python, Vue, AWS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494164209/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BeaconFire Inc.",
+      "title": "Java Full-Stack Developer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4493011865/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Software Engineer, Full Stack",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494385300/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Visionary Innovative Technology Solutions LLC",
+      "title": "Full Time Only: Java Full stack Developer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4493027877/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capgemini",
+      "title": "Full stack Developer (React, Java)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4492667000/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "UMATR",
+      "title": "Forward Deployed Engineer (AI)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4460476666/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Manifest OS",
+      "title": "Product Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493053469/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stuut",
+      "title": "Product Engineer - Onboarding Automation",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494435220/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Mobile Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494367947/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Forward Deployed Engineer - New Grad (2027)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461367281/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "title": "Wireless Embedded Software Developer, RTI, Amazon Leo",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494125796/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477923139/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "IT Systems Engineer, Mobile Client Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486000042/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Aquent",
+      "title": "Frontend Developer, Design Systems [AQ-28224]",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492697867/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493042108/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Autopoiesis Sciences",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494748119/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494705181/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skydio",
+      "title": "Autonomy Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4327890047/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "oneNav, Inc.",
+      "title": "Software Engineer \u2013 GNSS Systems (Tools, Test & Data)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483741138/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Meta",
+      "title": "Computer Vision Engineer, Reality Labs",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484652963/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hadrian",
+      "title": "All Levels: Product Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4484609638/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TechShack",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494419290/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Skild AI",
+      "title": "Robotics Engineer, Deployment & Testing - San Mateo",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470224851/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485783647/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Mobile Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494386196/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trove",
+      "title": "iOS Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486473630/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Salesforce",
+      "title": "Software Engineer II - Slack Developer Workspaces",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494409814/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Cloud Engineer 4",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494153722/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capital One",
+      "title": "Cloud Engineer 4",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494157604/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reflection",
+      "title": "Member of Technical Staff - Platform Foundations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383918256/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Albert Bow",
+      "title": "Software Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4493046402/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mizuho",
+      "title": "Infrastructure Platform Engineer (Containerization and Automation focus)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4438807818/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "title": "Software Engineer, Resilience Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485748855/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Natsoft",
+      "title": "Blockchain Infrastructure Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494143967/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Delta System & Software, Inc.",
+      "title": "Infrastructure Engineer (Blockchain Expertise)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494394100/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Smart IT Frame LLC",
+      "title": "Cloud Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494385851/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Delta System & Software, Inc.",
+      "title": "Blockchain Infrastructure Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494392121/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SwankTek Inc.",
+      "title": "Cloud Engineer - Google Cloud Platform/AWS/Azure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493001497/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SwankTek Inc.",
+      "title": "Cloud Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493015013/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Luma Financial Technologies",
+      "title": "Site Reliability Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471938194/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Whatnot",
+      "title": "Software Engineer, Data Developer Platform",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4441139292/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "DevOps / AgentOps Engineer, GTM Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485793420/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ivo",
+      "title": "Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480123114/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
+      "title": "Site Reliability Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486811723/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "United Software Group Inc",
+      "title": "Site Reliability Engineer with Cuda & Groovy",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493031345/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hyve Solutions",
+      "title": "Site Reliability Engineer- EDI",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486493114/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reducto",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424130274/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cylake",
+      "title": "Software Infrastructure Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486809969/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Nscale",
+      "title": "Infrastructure Engineer - Operations and Reliability",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494139845/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Global IT Con. LLC",
+      "title": "DevOps / Platform Engineer (AI Automation & GitOps)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494718838/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mobile Apps US",
+      "title": "Network Devops Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494713103/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "InfiCare Staffing",
+      "title": "Network DevOps Engineer With Terraform",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494737193/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, Infrastructure, Google Play",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494335292/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Infrastructure Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494372771/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Everpure",
+      "title": "Software Engineer - Forensics",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485787136/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Solution Architect",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486005082/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DataAnnotation",
+      "title": "Computational Biologist - AI Trainer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494419765/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bayside Solutions",
+      "title": "Biostatistician, Late Stage",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494727591/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Solution Architect",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485793829/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sphere",
+      "title": "Software Engineer - Backend Development & Financial Systems Integrations",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494733278/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Yoh, A Day & Zimmermann Company",
+      "title": "Azure/Databricks platform engineer (Terraforms) - Onsite in Jersey City, NJ -Hybrid - Open for C2C",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4494147871/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485782681/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Scientist, Growth",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485798288/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, RL Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485787584/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Code RL (Reinforcement Learning)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485791478/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AMD",
+      "title": "ML Systems Research Engineer, RL / Inference / Agent Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476058099/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "title": "GPU Research Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494391455/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Member of Technical Staff",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494390150/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MeeBoss",
+      "title": "Member of Technical Staff, AI Data and Evals Engineer at Tech Careers",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494407244/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, RL Engineering",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4485798260/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Member of Technical Staff",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494377541/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ramp",
+      "title": "Research Engineer, Benchmarks & Evaluation",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486811384/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crosby",
+      "title": "Member of Technical Staff, AI Developer Experience",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4426454169/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "David AI",
+      "title": "Forward Deployed Engineer, Evals",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493050646/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Marotta Controls",
+      "title": "Embedded Software Engineer",
+      "location": "Parsippany, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4494382571/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Trail",
+      "title": "Forward Deployed Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494170736/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494367880/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pivotal Partners",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4492025147/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TTE Staffing",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494745440/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Reducto",
+      "title": "Solutions Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4339044744/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Solutions Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494395451/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Franklin Templeton",
+      "title": "Forward Deployed Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494415870/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Franklin Templeton",
+      "title": "Forward Deployed Engineer",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494420905/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Inventure",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494375652/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Intuit",
+      "title": "Forward Deployed Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486812743/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pigment",
+      "title": "AI Deployment Strategist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484259342/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TechDoQuest",
+      "title": "Deployment Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491636234/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Forward Deployed Engineer, Geo Auto",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494380244/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dexmate",
+      "title": "Solutions Engineer, Physical AI",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461038486/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stuut",
+      "title": "Product Engineer - Onboarding Automation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494443174/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pivotal Partners",
+      "title": "Solutions Architect",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4494102978/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Eve",
+      "title": "Solutions Architect, AI Intake",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493657870/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4490675206/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Box",
+      "title": "Mid-Market Solutions Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494185302/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Nuvo",
+      "title": "New Grad Forward Deployed Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461285885/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fonzi AI",
+      "title": "Forward Deployed Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494384218/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Digital Waffle",
+      "title": "Solutions Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494394324/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Franklin Templeton",
+      "title": "Forward Deployed Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494429365/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jack",
+      "title": "Solutions Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4490938134/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TTE Staffing",
+      "title": "Solutions Engineer",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494736721/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gotion Inc.",
+      "title": "Solutions Engineer, ESS - Mexico",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4298454912/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Customer Engineer III, AI/ML, Mid-Market Enterprise, Google Cloud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494343010/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Partner Solutions Engineer, gTech Ads Sellside",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494331497/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Solutions Architect, Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486039010/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lightning AI",
+      "title": "Pre-Sales Solution Engineer, Neocloud Infrastructure",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494391773/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NinjaOne",
+      "title": "Associate Enterprise Solutions Engineer",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4494412291/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NinjaOne",
+      "title": "Associate Enterprise Solutions Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494410296/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "justt",
+      "title": "Solution Engineer - NYC",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494195951/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hyro",
+      "title": "Forward Deployed Strategist (NYC)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4474052737/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Adaptive",
+      "title": "Solution Engineer (Aeron and Capital Markets)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4345881379/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ronco",
+      "title": "Enterprise Solutions Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4447718034/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Neos Talent",
+      "title": "Forward Deployed Engineer (FDE)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494107964/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Galent",
+      "title": "AI Solution Architect",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4493011907/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Field Solutions Architect IV, AI Infrastructure, Google Cloud",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4485748445/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MaintainX",
+      "title": "Solutions Architect, Integrations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486013884/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ramp",
+      "title": "Procurement Solutions Architect",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470237453/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bramasol Inc.",
+      "title": "SAP S/4HANA Solution Architect \u2013 Finance & Manufacturing Costing",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494137700/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Headway Tek Inc",
+      "title": "Data Analyst/EDW Solution Architect",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494724551/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer, AWS EC2 Nitro Team",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486873153/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer (SDS Hardware-in-the-Loop)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461921799/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Software Engineer, Sandboxing",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486000006/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493042357/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, CE AI Foundations",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494390702/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA",
+      "title": "Software Engineer (C++, OOD/OOP, Linux)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411540228/",
+      "date_posted": "2026-11-24",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -884,10 +6177,10 @@
     "seniority": 0,
     "security": 0,
     "role": 0,
-    "location": 3,
+    "location": 14,
     "stale": 0
   },
-  "last_attempt_at": "2026-11-23T19:17:11.868355+00:00",
+  "last_attempt_at": "2026-11-24T23:25:42.911364+00:00",
   "last_success_at": "2026-11-21T20:18:21.441234+00:00",
   "status": "partial"
 }
