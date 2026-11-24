@@ -100,7 +100,11 @@ export function standardAnswer(field, p) {
       loc.city && loc.state && `${loc.city}, ${loc.state}`, loc.city && `${loc.city}, ${country}`].filter(Boolean);
     return { value: prefs.length ? prefs : [value], search: value };
   }
-  if (id === 'school--0' || id === 'discipline--0') return { value, search: value };
+  if (id === 'school--0' || id === 'discipline--0') {
+    // A list is fallbacks in order ("Data Science", then "Computer Science"): each is typed and matched on its own.
+    const list = [].concat(value).filter(Boolean);
+    return { value: list, search: list[0], searches: list };
+  }
   return { value };
 }
 
@@ -173,7 +177,7 @@ export function buildPlan(fields, profile, job = {}) {
   return { actions, unresolved, skipped };
 }
 
-export function resolve(f, { value, search, source = 'profile' }) {
+export function resolve(f, { value, search, searches, source = 'profile' }) {
   switch (f.kind) {
     case 'text': case 'textarea':
       return typeof value === 'string' || typeof value === 'number'
@@ -184,7 +188,9 @@ export function resolve(f, { value, search, source = 'profile' }) {
       return value === true ? { id: f.id, kind: 'checkbox', value: true, source } : null;
     case 'select':
       // Search-as-you-type dropdowns (school, location) only list matches after typing.
-      if (f.async || (search != null && f.widget === 'react')) return { id: f.id, kind: 'select', value: [].concat(value), search: String(search ?? [].concat(value)[0]), source };
+      if (f.async || (search != null && f.widget === 'react')) {
+        return { id: f.id, kind: 'select', value: [].concat(value), search: String(search ?? [].concat(value)[0]), ...(searches?.length > 1 && { searches }), source };
+      }
       {
         const opt = chooseOption(f.options, value);
         return opt ? { id: f.id, kind: 'select', value: [opt], source } : null;

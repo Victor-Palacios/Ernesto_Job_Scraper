@@ -139,18 +139,25 @@ async function pickReact(page, action) {
   const input = page.locator(byId(action.id));
   const wants = action.kind === 'multiselect' ? action.value : [action.value[0]];
   action.picked = [];
+  // `searches`: fallback terms, each typed on its own until one has a matching option.
+  const terms = action.searches?.length ? action.searches : [action.search];
   for (const want of wants) {
-    await input.scrollIntoViewIfNeeded();
-    await input.click();
-    if (action.search) await input.pressSequentially(action.search, { delay: 35 });
     const opts = menuOptions(page);
-    await opts.first().waitFor({ timeout: 10_000 }).catch(() => {});
-    await page.waitForTimeout(action.search ? 1200 : 200);
-    const texts = (await opts.allInnerTexts()).map(t => t.trim());
-    const target = action.search ? chooseOption(texts, action.value) : want;
-    const idx = target == null ? -1 : texts.findIndex(t => t === target || norm(t) === norm(target));
-    if (idx < 0) {
+    let texts = [], idx = -1;
+    for (const term of terms) {
+      await input.scrollIntoViewIfNeeded();
+      await input.click();
+      if (term) await input.pressSequentially(term, { delay: 35 });
+      await opts.first().waitFor({ timeout: 10_000 }).catch(() => {});
+      await page.waitForTimeout(term ? 1200 : 200);
+      texts = (await opts.allInnerTexts()).map(t => t.trim());
+      const target = term ? chooseOption(texts, action.searches ? term : action.value) : want;
+      idx = target == null ? -1 : texts.findIndex(t => t === target || norm(t) === norm(target));
+      if (idx >= 0) break;
       await closeMenu(page);
+      await input.fill('').catch(() => {});
+    }
+    if (idx < 0) {
       throw new FillError(`${action.id}: no option matching ${JSON.stringify(action.search ? action.value : want)}`);
     }
     await opts.nth(idx).click();
