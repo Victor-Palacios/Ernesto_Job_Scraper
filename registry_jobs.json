@@ -1,389 +1,213 @@
 {
-  "scraped_at": "2026-11-24 23:17 UTC",
-  "total": 35,
-  "new_count": 35,
+  "scraped_at": "2026-11-25 10:47 UTC",
+  "total": 19,
+  "new_count": 19,
   "jobs": [
     {
-      "company": "xdof",
-      "title": "Member of Technical Staff, Evaluations",
-      "location": "San Mateo Hybrid",
-      "url": "https://jobs.ashbyhq.com/XDOF/eb508f6e-26fe-40f4-8fd8-1fc429d6eef1",
-      "date_posted": "2026-11-17",
-      "ats": "Ashby",
+      "company": "Nasdaq",
+      "title": "AI / DevOps Engineer \u2013 Agentic Systems & Automation",
+      "location": "USA - New York City - New York",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/AI---DevOps-Engineer---Agentic-Systems---Automation_R0026612",
+      "date_posted": "2026-11-18",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "xdof",
-      "title": "Member of Technical Staff, Embodied Capabilities",
-      "location": "San Mateo Hybrid",
-      "url": "https://jobs.ashbyhq.com/XDOF/2d7a5135-f77d-4123-8de8-1b842cc15bb1",
-      "date_posted": "2026-11-22",
-      "ats": "Ashby",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "xona-space",
-      "title": "Cloud Infrastructure Engineer - Platform Engineering ",
-      "location": "Burlingame, California",
-      "url": "https://jobs.ashbyhq.com/xona-space/5f9603fa-1412-480e-a2bb-f8b85778094f",
+      "company": "NVIDIA",
+      "title": "Machine Learning Engineer, GeForce G-Assist",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--GeForce-G-Assist_JR2027676-1",
       "date_posted": "2026-11-19",
-      "ats": "Ashby",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "Software Engineer, Frontend (All Levels)",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/0c1b3417-9ba4-4630-8590-f6b45c40310a",
-      "date_posted": "2026-11-11",
-      "ats": "Ashby",
+      "company": "NVIDIA",
+      "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
+      "date_posted": "2026-11-19",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "Enterprise Solution Engineer (Pre-Sales)",
+      "company": "NVIDIA",
+      "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
+      "date_posted": "2026-11-19",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "PhD Research Scientist, Fundamental Generative AI - New College Grad\u00a02026",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
+      "date_posted": "2026-11-19",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Applied Research Engineer, Chip Design",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Engineer--Chip-Design_JR2021814",
+      "date_posted": "2026-11-19",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Varian",
+      "title": "Medical Imaging Field Engineer - Lexington, KY",
+      "location": "United States, KY, Lexington - Remote",
+      "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/United-States-KY-Lexington---Remote/Medical-Imaging-Field-Engineer---Lexington--KY_R-32244-1",
+      "date_posted": "2026-11-23",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Owens & Minor",
+      "title": "SCP, Solution Architect, SAP (IBP)",
       "location": "Remote - US",
-      "url": "https://jobs.ashbyhq.com/zip/d28dc61e-b4fa-4517-b61e-a31bccefddba",
-      "date_posted": "2026-11-11",
-      "ats": "Ashby",
+      "url": "https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/Remote---US/Solution-Architect---SCP-IT_REQ_26_33303",
+      "date_posted": "2026-11-17",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "Software Engineer, Backend (All Levels)",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/e7bcd788-ca5f-4e90-9728-0de7b57026a1",
+      "company": "Parsons",
+      "title": "Frontend Engineer - Secret",
+      "location": "US - Remote (Any Location)",
+      "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Frontend-Engineer---Top-Secret_R187072",
+      "date_posted": "",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pfizer",
+      "title": "Medical Analytics, Care Gaps & Customer Segmentation Team, Data Scientist",
+      "location": "United States - New York - New York City",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---New-York---New-York-City/Medical-Analytics--Care-Gaps---Customer-Segmentation-Team--Data-Scientist_4968423",
+      "date_posted": "2026-11-23",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "PTC",
+      "title": "Technical Solution Engineer",
+      "location": "Remote, USA",
+      "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Remote-USA/Technical-Solution-Engineer_JR112424",
+      "date_posted": "2026-11-17",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Genentech",
+      "title": "Postdoctoral Fellow Computational Biology and Machine Learning, Jhunjhunwala Lab",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Postdoctoral-Fellow-Computational-Biology-and-Machine-Learning--Jhunjhunwala-Lab_202611-130067-1",
+      "date_posted": "2026-11-23",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Genentech",
+      "title": "Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905",
       "date_posted": "2026-11-12",
-      "ats": "Ashby",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "AI Forward Deployed Engineer - Applied AI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/d212845e-9668-4a01-a30d-0d24c5a4f2b2",
+      "company": "Salesforce",
+      "title": "Software Engineer II - Slack Developer Workspaces",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer-II---Slack-Developer-Workspaces_JR366007-1",
       "date_posted": "2026-11-24",
-      "ats": "Ashby",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "AI Forward Deployed Engineer - Procurement",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/c5fba54c-37ee-4172-987d-7ff6bbd51d94",
+      "company": "Slack",
+      "title": "Software Engineer II - Slack Developer Workspaces",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Software-Engineer-II---Slack-Developer-Workspaces_JR366007",
       "date_posted": "2026-11-24",
-      "ats": "Ashby",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "10a Labs",
-      "title": "Machine Learning Engineer ",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/10alabs/jobs/4273194009",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
+      "company": "SHI International",
+      "title": "Presales Solutions Architect - Dell",
+      "location": "US - Remote",
+      "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Presales-Solutions-Architect---Dell_JR4000",
+      "date_posted": "2026-11-18",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "3RedPartners",
-      "title": "General Technologist Submissions (Experienced): Developers, DevOps, SysAdmin",
-      "location": "Chicago/Miami/New York City/Frankfurt/Summa - Amsterdam",
-      "url": "https://job-boards.greenhouse.io/3redpartners/jobs/4201091002",
-      "date_posted": "2026-11-11",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer I, Backend (Continuous Delivery)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer I, Backend (Streaming Infra)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+      "company": "Hottinger Br\u00fcel & Kjaer (HBK)",
+      "title": "Software Engineer II",
+      "location": "United States - Remote",
+      "url": "https://spectris.wd3.myworkdayjobs.com/HBK_Careers/job/United-States---Remote/Software-Engineer-II_19569",
       "date_posted": "2026-11-20",
-      "ats": "Greenhouse",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
+      "company": "Hyve Solutions",
+      "title": "Software Engineer",
+      "location": "Fremont, CA",
+      "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer_R57088",
       "date_posted": "2026-11-17",
-      "ats": "Greenhouse",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Test Infra)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003",
-      "date_posted": "2026-11-23",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (App Experience)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819445003",
-      "date_posted": "2026-11-13",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (Capital Orchestration)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7749755003",
-      "date_posted": "2026-11-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AffirmedRx",
-      "title": "Data Scientist ",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5489923008",
-      "date_posted": "2026-11-19",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "American Institutes for Research",
-      "title": "Data Scientist, Education Systems and Policy",
-      "location": "US-Remote | US-VA-Arlington | US-NC-Chapel Hill | US-IL-Chicago | US-CA-Sacramento | US-TX-Austin",
-      "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5480453008",
-      "date_posted": "2026-11-13",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
-      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
-      "date_posted": "2026-11-11",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Beneficial Deployments",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
-      "date_posted": "2026-11-23",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Finetuning",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489567008",
-      "date_posted": "2026-11-21",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anthropic",
-      "title": "Software Engineer, Model-to-Product Behavior Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5487188008",
-      "date_posted": "2026-11-23",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AppLovin",
-      "title": "ML Infrastructure Engineer ",
-      "location": "Palo Alto, CA",
-      "url": "https://boards.greenhouse.io/applovin/jobs/4655740006?gh_jid=4655740006",
-      "date_posted": "2026-11-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AssemblyAI",
-      "title": "Forward Deployed Engineer, Partnerships",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4755192005",
-      "date_posted": "2026-11-19",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AssemblyAI",
-      "title": "Forward Deployed Engineer, Triage",
-      "location": "New York City",
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4747365005",
-      "date_posted": "2026-11-19",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Embedded Software Engineer - Network Software",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4363202006",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Flight Software Engineer ",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4015622006",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Hardware/Production Test Software Engineer ",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4731856006",
-      "date_posted": "2026-11-23",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Software Engineer (Mission Applications)",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4721733006",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Software Engineer - Vehicle Test",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4714019006",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atomic Machines",
-      "title": "Generative AI CAD Engineer",
-      "location": "Emeryville, California",
-      "url": "https://job-boards.greenhouse.io/atomicmachines/jobs/4038127009",
-      "date_posted": "2026-11-16",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atomic Machines",
-      "title": "MLOps Engineer",
-      "location": "Emeryville, California",
-      "url": "https://job-boards.greenhouse.io/atomicmachines/jobs/4385503009",
-      "date_posted": "2026-11-16",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Authentic",
-      "title": "Software Engineer - Platform",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114312009",
+      "company": "Hyve Solutions",
+      "title": "Site Reliability Engineer- EDI",
+      "location": "Fremont, CA",
+      "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Site-Reliability-Engineer--EDI_R55727",
       "date_posted": "2026-11-17",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Axle",
-      "title": "Bioinformatics Scientist",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/axle/jobs/5294604007",
-      "date_posted": "2026-11-17",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Axon",
-      "title": "Deployment Engineer II, Fusus",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/6592813003",
-      "date_posted": "2026-11-20",
-      "ats": "Greenhouse",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
@@ -391,386 +215,210 @@
   ],
   "new_jobs": [
     {
-      "company": "xdof",
-      "title": "Member of Technical Staff, Evaluations",
-      "location": "San Mateo Hybrid",
-      "url": "https://jobs.ashbyhq.com/XDOF/eb508f6e-26fe-40f4-8fd8-1fc429d6eef1",
-      "date_posted": "2026-11-17",
-      "ats": "Ashby",
+      "company": "Nasdaq",
+      "title": "AI / DevOps Engineer \u2013 Agentic Systems & Automation",
+      "location": "USA - New York City - New York",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/AI---DevOps-Engineer---Agentic-Systems---Automation_R0026612",
+      "date_posted": "2026-11-18",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "xdof",
-      "title": "Member of Technical Staff, Embodied Capabilities",
-      "location": "San Mateo Hybrid",
-      "url": "https://jobs.ashbyhq.com/XDOF/2d7a5135-f77d-4123-8de8-1b842cc15bb1",
-      "date_posted": "2026-11-22",
-      "ats": "Ashby",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "xona-space",
-      "title": "Cloud Infrastructure Engineer - Platform Engineering ",
-      "location": "Burlingame, California",
-      "url": "https://jobs.ashbyhq.com/xona-space/5f9603fa-1412-480e-a2bb-f8b85778094f",
+      "company": "NVIDIA",
+      "title": "Machine Learning Engineer, GeForce G-Assist",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--GeForce-G-Assist_JR2027676-1",
       "date_posted": "2026-11-19",
-      "ats": "Ashby",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "Software Engineer, Frontend (All Levels)",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/0c1b3417-9ba4-4630-8590-f6b45c40310a",
-      "date_posted": "2026-11-11",
-      "ats": "Ashby",
+      "company": "NVIDIA",
+      "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
+      "date_posted": "2026-11-19",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "Enterprise Solution Engineer (Pre-Sales)",
+      "company": "NVIDIA",
+      "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
+      "date_posted": "2026-11-19",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "PhD Research Scientist, Fundamental Generative AI - New College Grad\u00a02026",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
+      "date_posted": "2026-11-19",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Applied Research Engineer, Chip Design",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Engineer--Chip-Design_JR2021814",
+      "date_posted": "2026-11-19",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Varian",
+      "title": "Medical Imaging Field Engineer - Lexington, KY",
+      "location": "United States, KY, Lexington - Remote",
+      "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/United-States-KY-Lexington---Remote/Medical-Imaging-Field-Engineer---Lexington--KY_R-32244-1",
+      "date_posted": "2026-11-23",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Owens & Minor",
+      "title": "SCP, Solution Architect, SAP (IBP)",
       "location": "Remote - US",
-      "url": "https://jobs.ashbyhq.com/zip/d28dc61e-b4fa-4517-b61e-a31bccefddba",
-      "date_posted": "2026-11-11",
-      "ats": "Ashby",
+      "url": "https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/Remote---US/Solution-Architect---SCP-IT_REQ_26_33303",
+      "date_posted": "2026-11-17",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "Software Engineer, Backend (All Levels)",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/e7bcd788-ca5f-4e90-9728-0de7b57026a1",
+      "company": "Parsons",
+      "title": "Frontend Engineer - Secret",
+      "location": "US - Remote (Any Location)",
+      "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Frontend-Engineer---Top-Secret_R187072",
+      "date_posted": "",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pfizer",
+      "title": "Medical Analytics, Care Gaps & Customer Segmentation Team, Data Scientist",
+      "location": "United States - New York - New York City",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---New-York---New-York-City/Medical-Analytics--Care-Gaps---Customer-Segmentation-Team--Data-Scientist_4968423",
+      "date_posted": "2026-11-23",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "PTC",
+      "title": "Technical Solution Engineer",
+      "location": "Remote, USA",
+      "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Remote-USA/Technical-Solution-Engineer_JR112424",
+      "date_posted": "2026-11-17",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Genentech",
+      "title": "Postdoctoral Fellow Computational Biology and Machine Learning, Jhunjhunwala Lab",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Postdoctoral-Fellow-Computational-Biology-and-Machine-Learning--Jhunjhunwala-Lab_202611-130067-1",
+      "date_posted": "2026-11-23",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Genentech",
+      "title": "Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
+      "location": "South San Francisco",
+      "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905",
       "date_posted": "2026-11-12",
-      "ats": "Ashby",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "AI Forward Deployed Engineer - Applied AI",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/d212845e-9668-4a01-a30d-0d24c5a4f2b2",
+      "company": "Salesforce",
+      "title": "Software Engineer II - Slack Developer Workspaces",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer-II---Slack-Developer-Workspaces_JR366007-1",
       "date_posted": "2026-11-24",
-      "ats": "Ashby",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "AI Forward Deployed Engineer - Procurement",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/zip/c5fba54c-37ee-4172-987d-7ff6bbd51d94",
+      "company": "Slack",
+      "title": "Software Engineer II - Slack Developer Workspaces",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Software-Engineer-II---Slack-Developer-Workspaces_JR366007",
       "date_posted": "2026-11-24",
-      "ats": "Ashby",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "10a Labs",
-      "title": "Machine Learning Engineer ",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/10alabs/jobs/4273194009",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
+      "company": "SHI International",
+      "title": "Presales Solutions Architect - Dell",
+      "location": "US - Remote",
+      "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Presales-Solutions-Architect---Dell_JR4000",
+      "date_posted": "2026-11-18",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "3RedPartners",
-      "title": "General Technologist Submissions (Experienced): Developers, DevOps, SysAdmin",
-      "location": "Chicago/Miami/New York City/Frankfurt/Summa - Amsterdam",
-      "url": "https://job-boards.greenhouse.io/3redpartners/jobs/4201091002",
-      "date_posted": "2026-11-11",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer I, Backend (Continuous Delivery)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer I, Backend (Streaming Infra)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+      "company": "Hottinger Br\u00fcel & Kjaer (HBK)",
+      "title": "Software Engineer II",
+      "location": "United States - Remote",
+      "url": "https://spectris.wd3.myworkdayjobs.com/HBK_Careers/job/United-States---Remote/Software-Engineer-II_19569",
       "date_posted": "2026-11-20",
-      "ats": "Greenhouse",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
+      "company": "Hyve Solutions",
+      "title": "Software Engineer",
+      "location": "Fremont, CA",
+      "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer_R57088",
       "date_posted": "2026-11-17",
-      "ats": "Greenhouse",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Test Infra)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003",
-      "date_posted": "2026-11-23",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (App Experience)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819445003",
-      "date_posted": "2026-11-13",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer II, Fullstack (Capital Orchestration)",
-      "location": "Remote US",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7749755003",
-      "date_posted": "2026-11-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AffirmedRx",
-      "title": "Data Scientist ",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5489923008",
-      "date_posted": "2026-11-19",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "American Institutes for Research",
-      "title": "Data Scientist, Education Systems and Policy",
-      "location": "US-Remote | US-VA-Arlington | US-NC-Chapel Hill | US-IL-Chicago | US-CA-Sacramento | US-TX-Austin",
-      "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5480453008",
-      "date_posted": "2026-11-13",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anthropic",
-      "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
-      "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
-      "date_posted": "2026-11-11",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Beneficial Deployments",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
-      "date_posted": "2026-11-23",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Finetuning",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489567008",
-      "date_posted": "2026-11-21",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anthropic",
-      "title": "Software Engineer, Model-to-Product Behavior Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5487188008",
-      "date_posted": "2026-11-23",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AppLovin",
-      "title": "ML Infrastructure Engineer ",
-      "location": "Palo Alto, CA",
-      "url": "https://boards.greenhouse.io/applovin/jobs/4655740006?gh_jid=4655740006",
-      "date_posted": "2026-11-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AssemblyAI",
-      "title": "Forward Deployed Engineer, Partnerships",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4755192005",
-      "date_posted": "2026-11-19",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AssemblyAI",
-      "title": "Forward Deployed Engineer, Triage",
-      "location": "New York City",
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4747365005",
-      "date_posted": "2026-11-19",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Embedded Software Engineer - Network Software",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4363202006",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Flight Software Engineer ",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4015622006",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Hardware/Production Test Software Engineer ",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4731856006",
-      "date_posted": "2026-11-23",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Software Engineer (Mission Applications)",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4721733006",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Astranis",
-      "title": "Software Engineer - Vehicle Test",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4714019006",
-      "date_posted": "2026-11-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atomic Machines",
-      "title": "Generative AI CAD Engineer",
-      "location": "Emeryville, California",
-      "url": "https://job-boards.greenhouse.io/atomicmachines/jobs/4038127009",
-      "date_posted": "2026-11-16",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atomic Machines",
-      "title": "MLOps Engineer",
-      "location": "Emeryville, California",
-      "url": "https://job-boards.greenhouse.io/atomicmachines/jobs/4385503009",
-      "date_posted": "2026-11-16",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Authentic",
-      "title": "Software Engineer - Platform",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114312009",
+      "company": "Hyve Solutions",
+      "title": "Site Reliability Engineer- EDI",
+      "location": "Fremont, CA",
+      "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Site-Reliability-Engineer--EDI_R55727",
       "date_posted": "2026-11-17",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Axle",
-      "title": "Bioinformatics Scientist",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/axle/jobs/5294604007",
-      "date_posted": "2026-11-17",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Axon",
-      "title": "Deployment Engineer II, Fusus",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/6592813003",
-      "date_posted": "2026-11-20",
-      "ats": "Greenhouse",
+      "ats": "Workday",
       "feeds": [
         "general"
       ]
@@ -778,7 +426,7 @@
   ],
   "filter_stats": {
     "company": 0,
-    "seniority": 1,
+    "seniority": 0,
     "security": 0,
     "role": 0,
     "location": 0,
