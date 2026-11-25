@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-25 00:07 UTC",
-  "total": 6,
+  "scraped_at": "2026-11-25 13:29 UTC",
+  "total": 5,
   "new_count": 0,
   "jobs": [
     {
@@ -60,20 +60,6 @@
       ]
     },
     {
-      "company": "TRYremote",
-      "title": "New on tryremote.com: Forward Deployed Engineer at Tiger Analytics, Remote - United States",
-      "location": "Remote (US)",
-      "url": "https://bsky.app/profile/tryremote.bsky.social/post/3n2udadv3pa2a",
-      "date_posted": "2026-11-21",
-      "salary": "",
-      "description": "New on tryremote.com: Forward Deployed Engineer at Tiger Analytics, Remote - United States. https://tryremote.com/remote-jobs/463926-forward-deployed-engineer-tiger-analytics\n\n#RemoteHiring #RemoteJobs #WorkRemotely\nForward Deployed Engineer at Tiger Analytics | Work from home\nRemote tech job \u2192 United States, Tiger Analytics is hiring a Forward Deployed Engineer. Tiger Analytics is looking for experienced Forward Deployed Engineer with Gen AI experience to join our fast-growing advanced analytics consulting firm. Our employees bring deep expertise in Machine L...",
-      "posted_by": "@tryremote.bsky.social",
-      "ats": "Bluesky",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Sumo Logic",
       "title": "PreSales Solutions Engineer",
       "location": "Remote",
@@ -94,7 +80,7 @@
     "seniority": 0,
     "security": 0,
     "role": 0,
-    "location": 56,
+    "location": 58,
     "stale": 0
   }
 }
