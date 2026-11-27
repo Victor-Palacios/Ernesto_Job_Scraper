@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-26 12:48 UTC",
-  "total": 37,
-  "new_count": 4,
+  "scraped_at": "2026-11-27 12:27 UTC",
+  "total": 35,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Natera",
@@ -387,76 +387,9 @@
       "feeds": [
         "biotech"
       ]
-    },
-    {
-      "company": "Genentech",
-      "title": "Bioinformatics - Scientist",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495219230/",
-      "date_posted": "2026-11-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "biotech"
-      ]
-    },
-    {
-      "company": "Bristol Myers Squibb",
-      "title": "Data Scientist",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493429437/",
-      "date_posted": "2026-11-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "biotech"
-      ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Natera",
-      "title": "Bioinformatics Scientist (Oncology Product Development)",
-      "location": "San Carlos, CA",
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6270765004",
-      "date_posted": "2026-11-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "biotech"
-      ]
-    },
-    {
-      "company": "Insitro",
-      "title": "Full Stack Software Engineer, Lab Platform (LIMS)",
-      "location": "South San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/insitro/0bff19c6-e165-4be7-a32a-6beeffb51ffa",
-      "date_posted": "2026-11-25",
-      "ats": "Ashby",
-      "feeds": [
-        "biotech"
-      ]
-    },
-    {
-      "company": "Genentech",
-      "title": "Bioinformatics - Scientist",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495219230/",
-      "date_posted": "2026-11-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "biotech"
-      ]
-    },
-    {
-      "company": "Bristol Myers Squibb",
-      "title": "Data Scientist",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493429437/",
-      "date_posted": "2026-11-25",
-      "ats": "LinkedIn",
-      "feeds": [
-        "biotech"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
