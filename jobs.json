@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-27 12:27 UTC",
-  "total": 35,
-  "new_count": 0,
+  "scraped_at": "2026-11-28 11:55 UTC",
+  "total": 36,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Natera",
@@ -387,9 +387,32 @@
       "feeds": [
         "biotech"
       ]
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Machine Learning Engineer, Physical Sciences AI",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4479558695/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "biotech"
+      ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Lila Sciences",
+      "title": "Machine Learning Engineer, Physical Sciences AI",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4479558695/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "biotech"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
